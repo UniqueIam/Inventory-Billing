@@ -50,7 +50,7 @@ Customer/Vendor transaction history
 
 git clone https://github.com/UniqueIam/Inventory-Billing.git
 
-cd inventory&billingBackend
+cd inventoryAndBillingBackend
 
 2.Install dependencies
 
